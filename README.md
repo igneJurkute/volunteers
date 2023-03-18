@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://ignejurkute.github.io/wolverine/
+Site published at: https://ignejurkute.github.io/volunteers/
 
 Design: [Volunteers](https://creativemarket.com/TheImg/4341467-Find-volunteers-landing-page#fullscreen)
 
@@ -47,7 +47,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/igneJurkute/wolverine.git
+    git clone https://github.com/igneJurkute/volunteers.git
     ```
 2. Install NPM packages
     ```sh
